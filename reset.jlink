@@ -1,0 +1,7 @@
+device STM32L476RG
+si SWD
+speed 1000
+exec SetResetType=2
+rnh
+sleep 100
+exit
