@@ -83,9 +83,9 @@ checksum = "46afbd2983a5d5a7bd740ccb198caf5b82f45c40c09c0eed36052d91cb92e719"
 
 [[package]]
 name = "bno08x-rvc"
-version = "0.1.1"
+version = "0.1.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "988c7619aecd584563a8d1db7854dbfd0eb49e55a60b9146c0b0d78b7cd89fdc"
+checksum = "6cd3fc8a125738443c48e0a71c352d34a316f89511af8ffacd2c19a8bb88a0f0"
 dependencies = [
  "bbqueue",
  "postcard",
